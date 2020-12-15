@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: thewiggs
-  repo: node-http
-  url: https://github.com/thewiggs/node-http.git
+  repo: node-http2
+  url: https://github.com/thewiggs/node-http2.git
   version: ""
   versionURL: ""
