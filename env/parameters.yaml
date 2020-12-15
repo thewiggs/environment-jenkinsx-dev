@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jenkinsx/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: robinwiggs@gmail.com
+  token: local:jenkinsx/pipelineUser:token
+  username: rwcicd
+prow:
+  hmacToken: local:jenkinsx/prow:hmacToken
