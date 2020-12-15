@@ -2,4 +2,4 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[thewiggs/node-http2](https://github.com/thewiggs/node-http2.git) |  | []() | 
+[thewiggs/node-http](https://github.com/thewiggs/node-http.git) |  | []() | 
